@@ -1,0 +1,8 @@
+Strogonoff de Frango
+  
+
+ .Frango
+ .Creme de leite
+ .Sal
+ .Molho de tomate
+ .Etc
